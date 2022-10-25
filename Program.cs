@@ -2,7 +2,7 @@
 using System;
 using static System.Net.Mime.MediaTypeNames;
 
-namespace BethanysPieShopHRM
+namespace Practica
 {
     class Program
     {
